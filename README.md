@@ -1,5 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Sertxu Developer</h2>
 <h3 align="center">A Full Stack Developer & SysAdmin 💻</h3>
+<p align="center">Don't forget to check my <a href="https://sertxu.dev">website</a>.</p>
 <br>
 <p align="center">I have been programming mainly with PHP for +10 years 😅,<br>but I have also done some projects using JavaScript and Shell, among others.</p>
 
@@ -8,6 +9,7 @@
 <br>
 
 <h4 align="center">These are some of the languages and frameworks I have used</h4>
+<br>
 <p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -29,6 +31,7 @@
 <br>
 
 <h4 align="center">These are some of the software I have used</h4>
+<br>
 <p align="center">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
@@ -44,6 +47,7 @@
 <br>
 
 <h4 align="center">Links of interest</h4>
+<br>
 <p align="center">
 <a href="https://codepen.io/sertxudeveloper" target="_blank"> <img src="logos/codepen.png" alt="codepen" height="40"> </a>
 <a href="https://dev.to/sertxudeveloper" target="blank"> <img src="logos/dev.jpg" alt="dev.to" height="40"> </a>
@@ -55,12 +59,13 @@
 <a href="https://medium.com/@sertxudeveloper" target="blank"> <img src="logos/medium.png" alt="medium" height="40"> </a>
 </p>
 
+<!--
 <br>
 <br>
 <br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertxudeveloper&layout=compact&hide=html&count_private=true&langs_count=8" alt="sertxudeveloper" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=sertxudeveloper&show_icons=true&count_private=true" alt="sertxudeveloper" />
 </p>
+-->
