@@ -3,7 +3,7 @@
 <br>
 <p align="center">I have been programming mainly with PHP for +10 years 😅,<br>but I have also done some projects using JavaScript and Shell, among others.</p>
 
-<p align="center">Currently, I create websites and SaaS using the <a href="https://tallstack.dev/">TALL Stack</a>.</p>
+<p align="center">Currently, I create websites and SaaS using the <a href="https://tallstack.dev/" target="_blank">TALL Stack</a>.</p>
 
 <h4 align="center">Don't forget to check my <a href="https://sertxu.dev" target="_blank">website</a>!</h4>
 
