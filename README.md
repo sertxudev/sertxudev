@@ -5,7 +5,7 @@
 
 <p align="center">Currently, I create websites and SaaS using the <a href="https://tallstack.dev/">TALL Stack</a>.</p>
 
-<h3 align="center">Don't forget to check my <a href="https://sertxu.dev">website</a>!</h3>
+<h4 align="center">Don't forget to check my <a href="https://sertxu.dev">website</a>!</h4>
 
 <br>
 
