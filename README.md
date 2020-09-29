@@ -49,14 +49,14 @@
 <h4 align="center">Links of interest</h4>
 <br>
 <p align="center">
-<a href="https://codepen.io/sertxudeveloper" target="_blank"> <img src="logos/codepen.png" alt="codepen" height="40"> </a>
-<a href="https://dev.to/sertxudeveloper" target="blank"> <img src="logos/dev.jpg" alt="dev.to" height="40"> </a>
-<a href="https://twitter.com/sertxudeveloper" target="blank"> <img src="logos/twitter.png" alt="twitter" height="40"> </a>
-<a href="https://linkedin.com/in/sertxudeveloper" target="blank"> <img src="logos/linkedin.png" alt="linkedin" height="40"> </a>
-<a href="https://stackoverflow.com/users/8813963" target="blank"> <img src="logos/stackoverflow.png" alt="stackoverflow" height="40"> </a>
-<a href="https://fb.com/sertxudeveloper" target="blank"> <img src="logos/facebook.png" alt="facebook" height="40"> </a>
-<a href="https://instagram.com/sertxudeveloper" target="blank"> <img src="logos/instagram.png" alt="instagram" height="40"> </a>
-<a href="https://medium.com/@sertxudeveloper" target="blank"> <img src="logos/medium.png" alt="medium" height="40"> </a>
+<a href="https://codepen.io/sertxudeveloper" target="_blank"> <img src="logos/codepen.png" alt="codepen" height="30"> </a>
+<a href="https://dev.to/sertxudeveloper" target="blank"> <img src="logos/dev.jpg" alt="dev.to" height="30"> </a>
+<a href="https://twitter.com/sertxudeveloper" target="blank"> <img src="logos/twitter.png" alt="twitter" height="30"> </a>
+<a href="https://linkedin.com/in/sertxudeveloper" target="blank"> <img src="logos/linkedin.png" alt="linkedin" height="30"> </a>
+<a href="https://stackoverflow.com/users/8813963" target="blank"> <img src="logos/stackoverflow.png" alt="stackoverflow" height="30"> </a>
+<a href="https://fb.com/sertxudeveloper" target="blank"> <img src="logos/facebook.png" alt="facebook" height="30"> </a>
+<a href="https://instagram.com/sertxudeveloper" target="blank"> <img src="logos/instagram.png" alt="instagram" height="30"> </a>
+<a href="https://medium.com/@sertxudeveloper" target="blank"> <img src="logos/medium.png" alt="medium" height="30"> </a>
 </p>
 
 <!--
