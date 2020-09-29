@@ -9,7 +9,7 @@
 
 <br>
 
-<details><summary align="center">Show me more</summary>
+<details><summary>Show me more</summary>
 
 <br>
 
