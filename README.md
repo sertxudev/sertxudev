@@ -1,10 +1,15 @@
 <h2 align="center">Hi there 👋, I'm Sertxu Developer</h2>
 <h3 align="center">A Full Stack Developer & SysAdmin 💻</h3>
-<p align="center">Don't forget to check my <a href="https://sertxu.dev">website</a>.</p>
 <br>
 <p align="center">I have been programming mainly with PHP for +10 years 😅,<br>but I have also done some projects using JavaScript and Shell, among others.</p>
 
 <p align="center">Currently, I create websites and SaaS using the <a href="https://tallstack.dev/">TALL Stack</a>.</p>
+
+<h3 align="center">Don't forget to check my <a href="https://sertxu.dev">website</a>!</h3>
+
+<br>
+
+<details><summary>Show me more</summary>
 
 <br>
 
@@ -69,3 +74,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sertxudeveloper&show_icons=true&count_private=true" alt="sertxudeveloper" />
 </p>
 -->
+
+</details>
