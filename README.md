@@ -59,12 +59,3 @@
 <a href="https://instagram.com/sertxudeveloper" target="blank"><img src="logos/instagram.png" alt="instagram" height="30"></a>
 <a href="https://medium.com/@sertxudeveloper" target="blank"><img src="logos/medium.png" alt="medium" height="30"></a>
 </p>
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertxudev&layout=compact&hide=html&count_private=true&langs_count=8" alt="sertxudev" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=sertxudev&show_icons=true&count_private=true" alt="sertxudev" />
-</p>
-
