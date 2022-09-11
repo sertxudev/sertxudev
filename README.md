@@ -9,10 +9,6 @@
 
 <br>
 
-<details><summary>Show me more</summary>
-
-<br>
-
 <h4 align="center">These are some of the languages and frameworks I have used</h4>
 <br>
 <p align="center">
@@ -64,15 +60,11 @@
 <a href="https://medium.com/@sertxudeveloper" target="blank"><img src="logos/medium.png" alt="medium" height="30"></a>
 </p>
 
-<!--
 <br>
-<br>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertxudeveloper&layout=compact&hide=html&count_private=true&langs_count=8" alt="sertxudeveloper" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=sertxudeveloper&show_icons=true&count_private=true" alt="sertxudeveloper" />
-</p>
--->
 
-</details>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertxudev&layout=compact&hide=html&count_private=true&langs_count=8" alt="sertxudev" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=sertxudev&show_icons=true&count_private=true" alt="sertxudev" />
+</p>
+
