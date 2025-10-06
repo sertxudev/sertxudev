@@ -1,7 +1,7 @@
-<h2 align="center">Hi there 👋, I'm Sertxu Developer</h2>
-<h3 align="center">A Full Stack Developer & SysAdmin 💻</h3>
+<h2 align="center">Hi, I'm Sertxu</h2>
+<h3 align="center">A Full Stack Developer & SysAdmin</h3>
 <br>
-<p align="center">I have been programming mainly with PHP for +10 years 😅,<br>but I have also done some projects using JavaScript and Shell, among others.</p>
+<p align="center">My name is Sergio Peris, and I have been programming mainly with PHP for +10 years 😅,<br>but I have also done some projects using JavaScript and Shell, among others.</p>
 
 <p align="center">Currently, I create websites and SaaS using the <a href="https://tallstack.dev/" target="_blank">TALL Stack</a>.</p>
 
